@@ -65,6 +65,22 @@ prompts, FFmpeg options) are managed through the settings system.
 The backend pipeline is working. The web dashboard is under development
 and is not included in this repository.
 
-## Demo
+## Screenshots
 
-_Demo video / screenshots coming soon._
+### AI Studio: the full pipeline in one screen
+![AI Studio](ai-studio.jpg)
+
+### Flux image generation with per-image motion control
+![Flux generation](flux-generation.jpg)
+
+### Montage engine: sync, transitions, subtitles and encoding
+![Montage engine](montage-engine.jpg)
+
+### Multi-niche, multi-language content
+![Niches](niches.jpg)
+
+### Fully editable prompts for every stage
+![Prompts](prompts.jpg)
+
+> The dashboard is under development and is not included in this repository.
+> These screenshots are from the working local version.
