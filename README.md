@@ -1,4 +1,4 @@
-﻿# ContentForge: AI Video Content Automation Pipeline
+# ContentForge: AI Video Content Automation Pipeline
 
 End-to-end system that turns a topic into a finished short video with
 voiceover and subtitles, with human approval gates and full control
@@ -64,10 +64,6 @@ prompts, FFmpeg options) are managed through the settings system.
 
 The backend pipeline is working. The web dashboard is under development
 and is not included in this repository.
-
-## Demo
-
-_Demo video / screenshots coming soon._
 
 ## Screenshots
 
