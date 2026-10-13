@@ -64,3 +64,24 @@ prompts, FFmpeg options) are managed through the settings system.
 
 The backend pipeline is working. The web dashboard is under development
 and is not included in this repository.
+
+## Demo
+
+_Demo video / screenshots coming soon._
+
+## Screenshots
+
+### AI Studio
+![AI Studio](docs/images/contentforge-ai-studio.png)
+
+### Content niches
+![Content niches](docs/images/contentforge-ai-studio-niches.png)
+
+### Montage engine (pipeline config)
+![Pipeline config](docs/images/contentforge-pipeline-config.png)
+
+### Prompts (FLUX and Wan)
+![Prompts](docs/images/contentforge-prompts-flux-wan.png)
+
+### Wan technical settings
+![Wan settings](docs/images/contentforge-wan-settings.png)
